@@ -1,4 +1,4 @@
-## This is GitHub account of the Data Science team at the School of Cardiovascular and Metabolic Health, University of Glasgow 👋
+## This is the GitHub account of the Data Science team at the School of Cardiovascular and Metabolic Health, University of Glasgow 👋
 
 <!--
 
